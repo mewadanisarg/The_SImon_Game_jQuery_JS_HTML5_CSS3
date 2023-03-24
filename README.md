@@ -17,4 +17,6 @@ Game built to improve the focus, calming activity for nervous system.
 
 For example: Level 1: Red click=> Red Level 2: Green click=> Red, Green Level 3: Yellow click=> Red, Green,
 
+## <a href="https://the-simon-game-j-query-js-html-5-css-3.vercel.app/">Demo</a>
+
 <img width="500" src="https://user-images.githubusercontent.com/73109141/224483366-43475e67-d325-444d-a63f-7498d7c0d534.png" alt="Simon_game">
